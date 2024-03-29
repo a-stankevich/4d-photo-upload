@@ -1,0 +1,12 @@
+{
+    "name": "4d-photo-upload",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "devDependencies": {
+        "dotenv-flow": "^4.1.0",
+        "form-data-encoder": "^4.0.2",
+        "formdata-node": "^6.0.3",
+        "got": "^14.2.1"
+    }
+}
